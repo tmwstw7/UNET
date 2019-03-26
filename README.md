@@ -39,6 +39,6 @@ Main file that collects all the previous ones together and perform predicting. O
 
 ## Afterword
 
-As I said before, it&#39;s my first time working with UNET architecture. Partly it was hard to understand but a lot of new material learnt. That was a great experience and even greater practice. Hope you will understand my (and not only mine, some code was copied from different [kagle](https://www.kaggle.com/) kernels from [Data Science Bowl 2018](https://www.kaggle.com/c/data-science-bowl-2018)) code.
+As I said before, it&#39;s my first time working with UNET architecture. Partly it was hard to understand but a lot of new material learnt. That was a great experience and even greater practice. Hope you will understand my (and not only mine, some code was copied from different [kaggle](https://www.kaggle.com/) kernels from [Data Science Bowl 2018](https://www.kaggle.com/c/data-science-bowl-2018)) code.
 
 ##
