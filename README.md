@@ -12,7 +12,7 @@ Model was built using Keras library (plot of model is attached in repository).
 
 ## Requirements
 
-All required libs and frameworks indicated in _requirements.txt_
+All required libs and frameworks indicated in _requirements.txt. 
 Also you will need Python 3.5 interpreter.
 
 ## Overview
