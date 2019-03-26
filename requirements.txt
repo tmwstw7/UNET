@@ -1,0 +1,17 @@
+For Jupyter Notebook:
+======================
+imageio
+numpy
+OpenCv
+scikit_learn > skimage
+scipy
+mathplotlib
+pandas
+
+For other scripts:
+======================
+TensorFlow
+Keras
+numpy
+Scikit_learn > skimage
+pandas
