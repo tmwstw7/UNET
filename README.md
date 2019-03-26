@@ -12,15 +12,15 @@ Model was built using Keras library (plot of model is attached in repository).
 
 ## Requirements
 
-All required libs and frameworks indicated in _requirements.txt. 
-Also you will need Python 3.5 interpreter.
+All required libs and frameworks indicated in _requirements.txt._
+
+Also you need Python 3.5 interpreter.
 
 ## Overview
 
 - **Exploratory\_analysis.ipynb**
 
-Jupyter notebook with exploratory data analysis, visualization and preliminary predictions. Just run it in Jupiter notebook.
-(If using PyCharm JN, as I did, just import jupyter)
+Jupyter notebook with exploratory data analysis, visualization and preliminary predictions. Just run it in Jupiter notebook. (If using PyCharm JN, as I did, just import jupyter). I used  Otsu threshold method to indicate nuclei and show them on plot. Also k-means was used to determine whether object is foreground or background and collect corresponding data into csv files.
 
 - **pre\_processes.py**
 
@@ -39,6 +39,6 @@ Main file that collects all the previous ones together and perform predicting. O
 
 ## Afterword
 
-As I said before, it&#39;s my first time working with UNET architecture. Partly it was hard to understand but a lot of new material learnt. That was a great experience and even greater practice. Hope you will understand my (and not only mine, some code was copied from different [kaggle](https://www.kaggle.com/) kernels from [Data Science Bowl 2018](https://www.kaggle.com/c/data-science-bowl-2018)) code.
+As I said before, it&#39;s my first time working with UNET architecture. Partly it was hard to understand but a lot of new material learnt. That was a great experience and even greater practice. Hope you will understand my (and not only mine, some code was copied from different [kagle](https://www.kaggle.com/) kernels from [Data Science Bowl 2018](https://www.kaggle.com/c/data-science-bowl-2018)) code.
 
 ##
