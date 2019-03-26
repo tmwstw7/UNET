@@ -18,7 +18,8 @@ All required libs and frameworks indicated in _requirements.txt_
 
 - **Exploratory\_analysis.ipynb**
 
-Jupyter notebook with exploratory data analysis, visualization and preliminary predictions. Just run it in Jupiter notebook. (If using PyCharm JN, as I did, just import jupyter)
+Jupyter notebook with exploratory data analysis, visualization and preliminary predictions. Just run it in Jupiter notebook.
+(If using PyCharm JN, as I did, just import jupyter)
 
 - **pre\_processes.py**
 
